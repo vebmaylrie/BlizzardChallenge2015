@@ -17,6 +17,7 @@ which built Text-to-speech synthesizer for Indian languages.
 Please change $dumpfeat, $promptdir, $fulldir, and $opt to fit your environment.
 
 * extract contextual features
+
     perl scripts/mk_hts_full.pl etc/txt.done.data(text file for Festival)
 
 # Question file (questions)
