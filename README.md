@@ -3,6 +3,11 @@
 This repository has the context generator and question files for Blizzard Challenge 2015 
 which built Text-to-speech synthesizer for Indian languages.
 
+# Publication
+Shinnosuke Takamichi, Kazuhiro Kobayashi, Kou Tanaka, Tomoki Toda, and Satoshi Nakamura,
+"The NAIST Text-to-Speech System for the Blizzard Challenge 2015,"
+Proc. of Blizzard Challenge Workshop, Berlin, Germany, Sep., 2015.
+
 # Toolkits required
 * Festival (> 2.7) ... for text analysis of Indian languages
 * HTS (> 2.1) ... for using the question file
